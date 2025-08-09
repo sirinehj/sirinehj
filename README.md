@@ -3,7 +3,7 @@
 ### 👋 Hi, I'm Sirine Hjaij!
 
 #### Welcome to my GitHub profile!  
-#### I'm passionate about coding, open source, and continuous learning.
+#### I'm passionate about coding and continuous learning.
 
 <br><br><br>
 
