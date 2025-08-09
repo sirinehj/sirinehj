@@ -54,5 +54,5 @@
 
 *Thanks for stopping by!*
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhsZ3VoNm5rdHFkanZqaHZ2aW9pY2Y1eHAxOHFldGd5M2JzbW9nbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XgHArkRXiRchdysx9R/giphy.gif" alt="Animated GIF" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGdmbHRvZXhpN2VzOGp5emxtZm01cGtwdjJzaXczaXZtbzgzZTh0MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" alt="Animated GIF" width="300"/>
 </div>
