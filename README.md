@@ -1,7 +1,12 @@
-# 👋 Hi, I'm Sirine HJ!
+<img align='right' src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWMycWJ6N3E2NGpycDVseW5nbm04MG84emFqY3kxaHkzYnlzZmJrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wJBYx2Yh84XS4sTzmz/giphy.gif' width='250'>
 
-Welcome to my GitHub profile!  
-I'm passionate about coding, open source, and continuous learning.
+### 👋 Hi, I'm Sirine HJ!
+
+#### Welcome to my GitHub profile!  
+#### I'm passionate about coding, open source, and continuous learning.
+
+<br><br><br>
+
 
 ## 🚀 About Me
 - 🔭 Currently working on exciting projects in web development and data science.
@@ -48,3 +53,6 @@ I'm passionate about coding, open source, and continuous learning.
 ---
 
 *Thanks for stopping by!*
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhsZ3VoNm5rdHFkanZqaHZ2aW9pY2Y1eHAxOHFldGd5M2JzbW9nbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XgHArkRXiRchdysx9R/giphy.gif" alt="Animated GIF" width="300"/>
+</div>
