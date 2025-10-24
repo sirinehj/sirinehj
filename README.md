@@ -8,11 +8,10 @@
 
 
 
-### 🚀 About Me
-- 🔭 Currently working on exciting projects in web development and data science.
-- 🌱 Always learning new technologies and improving my skills.
-- 👯 Looking to collaborate on open source and impactful projects.
-- 💬 Ask me about Java, Python, or anything tech!
+### About Me
+- Currently working on exciting projects in web development and data science.
+- Always learning new technologies and improving my skills.
+- Looking to collaborate on open source and impactful projects.
 
 ## 🛠️ Tools & Languages
 
